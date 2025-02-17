@@ -18,6 +18,11 @@
         "unordered_map": "cpp",
         "limits": "cpp",
         "print": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "__tree": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "unordered_set": "cpp",
+        "iostream": "cpp"
     }
 }
