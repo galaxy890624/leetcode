@@ -33,12 +33,12 @@ public:
 int main()
 {
     Solution Sol;
+    // Test case
     vector<int> nums = {2, 7, 11, 15};
     int target = 9;
 
     vector<int> ans = Sol.twoSum(nums, target);
     
-    // Test case
     if (!ans.empty())
     {
         cout << "Indices: ";
